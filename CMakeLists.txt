@@ -38,6 +38,7 @@ include_directories("${PROJECT_SOURCE_DIR}/src")
 
 set(SRC src)
 set(OORA_SRC
+        ${SRC}/main.c
   ${SRC}/mm1.c
   ${SRC}/mm2.c
   ${SRC}/mm3.c
@@ -49,8 +50,12 @@ set(OORA_SRC
   ${SRC}/mm7.c
   ${SRC}/mm8.c
   ${SRC}/mm9.c
-        src/performance.h src/performance.c src/measurements.h src/measurements.c src/problem.h src/main.c)
-  
+        ${SRC}/performance.h
+        ${SRC}/performance.c
+        ${SRC}/measurements.h
+        ${SRC}/measurements.c
+        ${SRC}/problem.h)
+
 # --------------------------------------------------------------------
 # Libraries
 # --------------------------------------------------------------------
