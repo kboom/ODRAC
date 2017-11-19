@@ -39,6 +39,17 @@ include_directories("${PROJECT_SOURCE_DIR}/src")
 set(SRC src)
 set(OORA_SRC
   ${SRC}/mm1.c
+  ${SRC}/mm2.c
+  ${SRC}/mm3.c
+  ${SRC}/mm4.c
+  ${SRC}/mm5.c
+  ${SRC}/mm5a.c
+  ${SRC}/mm5b.c
+  ${SRC}/mm6.c
+  ${SRC}/mm7.c
+  ${SRC}/mm8.c
+  ${SRC}/mm9.c
+  ${SRC}/mm10.c
   )
   
 # --------------------------------------------------------------------
