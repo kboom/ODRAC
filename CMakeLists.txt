@@ -49,8 +49,7 @@ set(OORA_SRC
   ${SRC}/mm7.c
   ${SRC}/mm8.c
   ${SRC}/mm9.c
-  ${SRC}/mm10.c
-  )
+        src/performance.h src/performance.c src/measurements.h src/measurements.c src/problem.h src/main.c)
   
 # --------------------------------------------------------------------
 # Libraries
