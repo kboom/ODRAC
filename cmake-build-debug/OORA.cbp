@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="OORA"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/kbhit/Sources/OORA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/kbhit/Sources/OORA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/kbhit/Sources/OORA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OORA">
+				<Option output="/Users/kbhit/Sources/OORA/cmake-build-debug/OORA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kbhit/Sources/OORA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/kbhit/Sources/OORA/src"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 OORA"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OORA/fast">
+				<Option output="/Users/kbhit/Sources/OORA/cmake-build-debug/OORA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kbhit/Sources/OORA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/kbhit/Sources/OORA/src"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 OORA/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kbhit/Sources/OORA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/main.c">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/measurements.c">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/measurements.h">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/mm1.c">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/mm2.c">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/mm3.c">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/mm4.c">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/mm5.c">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/mm5a.c">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/mm5b.c">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/mm6.c">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/mm7.c">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/mm8.c">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/mm9.c">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/performance.c">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/performance.h">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/src/problem.h">
+			<Option target="OORA"/>
+		</Unit>
+		<Unit filename="/Users/kbhit/Sources/OORA/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

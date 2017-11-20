@@ -1,0 +1,104 @@
+-- No build type selected, default to Release
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rikkt0r/gg/OORA
+[100%] Built target OORA
+------ Solver 1 TIME -------
+Time: 2.255100e-01 
+check 2.932020e+12 
+------ Solver 1 FLOPS 1 -------
+Event does not exist
+------ Solver 1 FLOPS 2 -------
+PAPI started
+Mem loads: 268417437 Mem store: 262654
+check 2.932020e+12 
+------ Solver 2 TIME -------
+Time: 2.094290e-01 
+check 2.932020e+12 
+------ Solver 2 FLOPS 1 -------
+Event does not exist
+------ Solver 2 FLOPS 2 -------
+PAPI started
+Mem loads: 268415003 Mem store: 262654
+check 2.932020e+12 
+------ Solver 3 TIME -------
+Time: 2.054460e-01 
+check 2.932020e+12 
+------ Solver 3 FLOPS 1 -------
+Event does not exist
+------ Solver 3 FLOPS 2 -------
+PAPI started
+Mem loads: 268421517 Mem store: 262654
+check 2.932020e+12 
+------ Solver 4 TIME -------
+Time: 2.034090e-01 
+check 2.932020e+12 
+------ Solver 4 FLOPS 1 -------
+Event does not exist
+------ Solver 4 FLOPS 2 -------
+PAPI started
+Mem loads: 268393341 Mem store: 262656
+check 2.932020e+12 
+------ Solver 5 TIME -------
+Time: 2.021430e-01 
+check 2.932020e+12 
+------ Solver 5 FLOPS 1 -------
+Event does not exist
+------ Solver 5 FLOPS 2 -------
+PAPI started
+Mem loads: 268430405 Mem store: 262656
+check 2.932020e+12 
+------ Solver 51 TIME -------
+Time: 2.056050e-01 
+check 2.932020e+12 
+------ Solver 51 FLOPS 1 -------
+Event does not exist
+------ Solver 51 FLOPS 2 -------
+PAPI started
+Mem loads: 268428631 Mem store: 262656
+check 2.932020e+12 
+------ Solver 52 TIME -------
+Time: 2.114610e-01 
+check 2.932020e+12 
+------ Solver 52 FLOPS 1 -------
+Event does not exist
+------ Solver 52 FLOPS 2 -------
+PAPI started
+Mem loads: 268419445 Mem store: 262656
+check 2.932020e+12 
+------ Solver 6 TIME -------
+Time: 1.407340e-01 
+check -2.932020e+12 
+------ Solver 6 FLOPS 1 -------
+Event does not exist
+------ Solver 6 FLOPS 2 -------
+PAPI started
+Mem loads: 268436363 Mem store: 262655
+check -2.932020e+12 
+------ Solver 7 TIME -------
+Time: 6.663100e-02 
+check -2.932020e+12 
+------ Solver 7 FLOPS 1 -------
+Event does not exist
+------ Solver 7 FLOPS 2 -------
+PAPI started
+Mem loads: 285214393 Mem store: 16777734
+check -2.932020e+12 
+------ Solver 8 TIME -------
+Time: 4.643200e-02 
+check -2.932020e+12 
+------ Solver 8 FLOPS 1 -------
+Event does not exist
+------ Solver 8 FLOPS 2 -------
+PAPI started
+Mem loads: 167773172 Mem store: 16777734
+check -2.932020e+12 
+------ Solver 9 TIME -------
+Time: 7.150200e-02 
+check -2.932020e+12 
+------ Solver 9 FLOPS 1 -------
+Event does not exist
+------ Solver 9 FLOPS 2 -------
+PAPI started
+Mem loads: 212405517 Mem store: 14469640
+check -2.932020e+12 

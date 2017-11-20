@@ -1,0 +1,137 @@
+-- No build type selected, default to Release
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rikkt0r/gg/OORA
+Scanning dependencies of target OORA
+[  6%] Building C object CMakeFiles/OORA.dir/src/main.c.o
+[ 13%] Building C object CMakeFiles/OORA.dir/src/mm1.c.o
+[ 20%] Building C object CMakeFiles/OORA.dir/src/mm2.c.o
+[ 26%] Building C object CMakeFiles/OORA.dir/src/mm3.c.o
+[ 33%] Building C object CMakeFiles/OORA.dir/src/mm4.c.o
+[ 40%] Building C object CMakeFiles/OORA.dir/src/mm5.c.o
+[ 46%] Building C object CMakeFiles/OORA.dir/src/mm5a.c.o
+[ 53%] Building C object CMakeFiles/OORA.dir/src/mm5b.c.o
+[ 60%] Building C object CMakeFiles/OORA.dir/src/mm6.c.o
+[ 66%] Building C object CMakeFiles/OORA.dir/src/mm7.c.o
+[ 73%] Building C object CMakeFiles/OORA.dir/src/mm8.c.o
+[ 80%] Building C object CMakeFiles/OORA.dir/src/mm9.c.o
+[ 86%] Building C object CMakeFiles/OORA.dir/src/performance.c.o
+/home/rikkt0r/gg/OORA/src/performance.c: In function ‘startOne’:
+/home/rikkt0r/gg/OORA/src/performance.c:34:9: warning: format not a string literal and no format arguments [-Wformat-security]
+         fprintf(stderr, errorstring);
+         ^
+/home/rikkt0r/gg/OORA/src/performance.c: In function ‘startTwo’:
+/home/rikkt0r/gg/OORA/src/performance.c:51:9: warning: format not a string literal and no format arguments [-Wformat-security]
+         fprintf(stderr, errorstring);
+         ^
+/home/rikkt0r/gg/OORA/src/performance.c: In function ‘stopOne’:
+/home/rikkt0r/gg/OORA/src/performance.c:63:9: warning: format not a string literal and no format arguments [-Wformat-security]
+         fprintf(stderr, errorstring);
+         ^
+/home/rikkt0r/gg/OORA/src/performance.c: In function ‘stopTwo’:
+/home/rikkt0r/gg/OORA/src/performance.c:76:9: warning: format not a string literal and no format arguments [-Wformat-security]
+         fprintf(stderr, errorstring);
+         ^
+[ 93%] Building C object CMakeFiles/OORA.dir/src/measurements.c.o
+[100%] Linking C executable OORA
+[100%] Built target OORA
+------ Solver 1 TIME -------
+Time: 2.204110e-01 
+check 2.932020e+12 
+------ Solver 1 FLOPS 1 -------
+Event does not exist
+------ Solver 1 FLOPS 2 -------
+PAPI started
+Mem loads: 268415650 Mem store: 262760
+check 2.932020e+12 
+------ Solver 2 TIME -------
+Time: 2.079030e-01 
+check 2.932020e+12 
+------ Solver 2 FLOPS 1 -------
+Event does not exist
+------ Solver 2 FLOPS 2 -------
+PAPI started
+Mem loads: 268425936 Mem store: 262760
+check 2.932020e+12 
+------ Solver 3 TIME -------
+Time: 2.129710e-01 
+check 2.932020e+12 
+------ Solver 3 FLOPS 1 -------
+Event does not exist
+------ Solver 3 FLOPS 2 -------
+PAPI started
+Mem loads: 268419511 Mem store: 262760
+check 2.932020e+12 
+------ Solver 4 TIME -------
+Time: 2.144010e-01 
+check 2.932020e+12 
+------ Solver 4 FLOPS 1 -------
+Event does not exist
+------ Solver 4 FLOPS 2 -------
+PAPI started
+Mem loads: 268412590 Mem store: 262762
+check 2.932020e+12 
+------ Solver 5 TIME -------
+Time: 2.084670e-01 
+check 2.932020e+12 
+------ Solver 5 FLOPS 1 -------
+Event does not exist
+------ Solver 5 FLOPS 2 -------
+PAPI started
+Mem loads: 268412225 Mem store: 262762
+check 2.932020e+12 
+------ Solver 51 TIME -------
+Time: 2.112060e-01 
+check 2.932020e+12 
+------ Solver 51 FLOPS 1 -------
+Event does not exist
+------ Solver 51 FLOPS 2 -------
+PAPI started
+Mem loads: 268418471 Mem store: 262762
+check 2.932020e+12 
+------ Solver 52 TIME -------
+Time: 2.085070e-01 
+check 2.932020e+12 
+------ Solver 52 FLOPS 1 -------
+Event does not exist
+------ Solver 52 FLOPS 2 -------
+PAPI started
+Mem loads: 268404514 Mem store: 262762
+check 2.932020e+12 
+------ Solver 6 TIME -------
+Time: 1.430690e-01 
+check -2.932020e+12 
+------ Solver 6 FLOPS 1 -------
+Event does not exist
+------ Solver 6 FLOPS 2 -------
+PAPI started
+Mem loads: 268436392 Mem store: 262761
+check -2.932020e+12 
+------ Solver 7 TIME -------
+Time: 6.940300e-02 
+check -2.932020e+12 
+------ Solver 7 FLOPS 1 -------
+Event does not exist
+------ Solver 7 FLOPS 2 -------
+PAPI started
+Mem loads: 285207613 Mem store: 16777840
+check -2.932020e+12 
+------ Solver 8 TIME -------
+Time: 5.108400e-02 
+check -2.932020e+12 
+------ Solver 8 FLOPS 1 -------
+Event does not exist
+------ Solver 8 FLOPS 2 -------
+PAPI started
+Mem loads: 167772362 Mem store: 16777840
+check -2.932020e+12 
+------ Solver 9 TIME -------
+Time: 6.766600e-02 
+check -2.932020e+12 
+------ Solver 9 FLOPS 1 -------
+Event does not exist
+------ Solver 9 FLOPS 2 -------
+PAPI started
+Mem loads: 212403960 Mem store: 14469746
+check -2.932020e+12 
+
